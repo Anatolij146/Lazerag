@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  team_a: MyText
+  team_b: MyText
+  result: MyString
+  instructor: MyString
+
+two:
+  team_a: MyText
+  team_b: MyText
+  result: MyString
+  instructor: MyString
